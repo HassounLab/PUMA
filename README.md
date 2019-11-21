@@ -8,7 +8,9 @@ To interpret measurements, we present an inference-based approach, termed Probab
 Getting Started
 
 There are two examples: 
+
 data/CHO_cell: Chinese Hampster Ovary Cell example provided in the paper
+
 data/human_urine: A human urine example, see reference in the paper
 
 Start running quickly by executing run_puma.py
