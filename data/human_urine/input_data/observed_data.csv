@@ -1,0 +1,385 @@
+,adjusted_mass,Metabolite
+0,60.032364,Urea
+1,75.068413,Trimethylamine oxide
+2,88.016045,Pyruvic acid
+3,89.047676,Alanine isomer
+4,89.995308,Oxalic acid
+5,90.031693,Lactic acid
+6,93.057846,Aniline isomer
+7,102.068077,Valeric acid isomer
+8,103.063329,2-Aminobutyric acid
+9,103.063329,Dimethylglycine
+10,103.063329,Aminobutyric acid isomer
+11,103.063329,Aminobutyric acid isomer
+12,103.063329,Aminobutyric acid isomer
+13,104.010956,Malonic acid
+14,104.106994,Choline
+15,105.042595,Serine
+16,106.026611,Glyceric acid
+17,109.052765,4-Aminophenol
+18,109.052765,Aminophenol isomer
+19,109.052765,Aminophenol isomer
+20,111.043259,Cytosine
+21,111.079643,Histamine
+22,112.027275,Uracil
+23,113.058914,Creatinine
+24,113.058914,Creatinine isomer
+25,114.042931,"5,6-Dihydrouracil"
+26,115.063332,Proline
+27,116.010956,Maleic acid
+28,116.010956,Fumaric acid
+29,117.053825,Guanidoacetic acid
+30,117.053825,Guanidoacetic acid isomer
+31,117.078979,Betaine
+32,117.078979,Valine
+33,118.026611,Methylmalonic acid
+34,118.026611,Methylmalonic acid isomer
+35,118.026611,Threonolactone
+36,118.062996,3-Hydroxy 3-methylbutyric acid
+37,118.062996,2-Hydroxy 2-methylbutyric acid
+38,118.062996,2-Hydroxy 3-methylbutyric acid
+39,119.058243,Threonine
+40,119.058243,Threonine isomer
+41,122.036781,Benzoic acid isomer
+42,122.048012,Nicotinamide
+43,122.05791,Erithrol (and isomers)
+44,123.032028,Nicotinic acid
+45,123.032028,Nicotinic acid isomer
+46,124.052429,"2-Hydroxybenzyl alcohol (Salicyl alcohol, Saligenin)"
+47,124.052429,3-Hydroxybenzyl alcohol
+48,124.052429,Hydroxybenzyl alcohol isomer
+49,125.014664,Taurine
+50,125.014664,Taurine isomer
+51,125.058914,Methylcytosine isomer
+52,125.058914,Methylcytosine isomer
+53,125.058914,Methylcytosine isomer
+54,125.095299,N1-Methylhistamine 
+55,125.095299,N3-Methylhistamine 
+56,125.095299,Nα-Methylhistamine
+57,125.095299,Methylhistamine isomer
+58,126.042931,Imidazoleacetic acid isomer
+59,126.042931,Imidazoleacetic acid isomer
+60,126.042931,Imidazoleacetic acid isomer
+61,128.058578,Dihydrothymine
+62,128.058578,Dihydrothymine isomer
+63,129.042587,Oxoproline
+64,129.042587,Oxoproline isomer
+65,129.078979,Pipecolic acid
+66,130.062988,4-Methyl-2-oxovaleric acid (ketoleucine)
+67,130.062988,3-Methyl-2-oxovaleric acid
+68,130.110611,N-Acetylputrescine
+69,130.110611,N-Acetylputrescine isomer
+70,131.058243,Hydroxyproline isomer
+71,131.058243,Hydroxyproline isomer
+72,131.058243,Hydroxyproline isomer
+73,131.058243,Hydroxyproline isomer
+74,131.058243,N-Acetylalanine
+75,131.058243,Hydroxyproline
+76,131.069473,Creatine   
+77,131.094635,Leucine
+78,131.094635,Leucine isomer
+79,131.094635,Leucine isomer
+80,131.094635,6-Aminocaproic acid
+81,131.094635,Norleucine
+82,132.053497,3-ureidopropionic acid
+83,132.053497,Asparagine
+84,133.037506,Aspartic acid
+85,134.02153,Malic acid
+86,134.057907,Deoxyribose isomer
+87,134.057907,Deoxyribose
+88,136.03717,Threonic acid / Erythronic acid
+90,136.038513,Hypoxanthine
+91,136.038513,Hypoxanthine isomer
+92,136.06366,1-Methylnicotinamide
+93,136.06366,2-Methylnicotinamide
+94,137.0477,Trigonelline
+95,137.0477,Trigonelline isomer
+96,138.031693,Salicylic acid (2-hydroxybenzoic acid)
+97,138.031693,4-Hydroxybenzoic acid
+98,138.042923,Aminonicotinic acid isomer
+99,138.042923,Aminonicotinic acid isomer
+100,138.042923,Aminonicotinic acid isomer
+101,139.026947,Hydroxynicotinic acid isomer
+102,139.026947,Hydroxynicotinic acid isomer
+103,139.026947,Hydroxynicotinic acid isomer
+104,139.026947,4-Nitrophenol
+105,139.026947,Hydroxynicotinic acid isomer
+106,140.058578,1-Methyl-4-imidazoleacetic acid
+107,140.058578,Methylimidazoleacetic acid isomer
+108,140.058578,Methylimidazoleacetic acid isomer
+109,140.058578,Methylimidazoleacetic acid isomer
+110,142.037843,5-hydroxymethyluracil
+111,143.094635,Stachydrine (Proline betaine)
+112,145.073898,4-Acetamidobutanoic acid
+113,145.073898,N-Isobutyrylglycine
+114,145.073898,4-Acetamidobutanoic acid isomer
+115,145.157898,Spermidine
+116,146.021525,α-Ketoglutaric acid
+117,146.057907,"2,2-Dimethylsuccinic acid"
+118,146.057907,Adipic acid
+119,146.057907,Methylglutaric acid isomer
+120,146.057907,Methylglutaric acid
+121,146.069138,Glutamine
+122,146.10553,Lysine
+123,147.053162,O-Acetylserine
+124,147.053162,O-Acetylserine isomer
+125,148.073563,Mevalonic acid isomer
+126,148.073563,Mevalonic acid isomer
+127,148.073563,(2-methoxyethoxy)propanoic acid
+128,148.073563,(2-methoxyethoxy)propanoic acid
+129,149.051051,Methionine
+130,149.051051,Methionine isomer
+131,149.070145,Methyladenine isomer
+132,149.070145,Methyladenine isomer
+133,150.052826,Pentose
+134,151.049408,Guanine
+135,151.063324,Acetaminophen
+136,151.063324,Acetaminophen isomer
+137,152.033432,Xanthine
+138,152.047348,p-Anisic acid
+139,152.047348,2-Hydroxyphenylacetic acid 
+140,152.047348,3-Hydroxyphenylacetic acid
+141,152.047348,4-Hydroxyphenylacetic acid
+142,152.068481,Arabitol (and isomers)
+143,153.042587,Hydroxyanthranilic acid isomer
+144,153.042587,Hydroxyanthranilic acid isomer
+145,154.026611,"2,6-dihydroxybenzoic acid"
+146,154.026611,"2,3-Dihydroxybenzoic acid (2-Pyrocatechuic acid)"
+147,154.026611,"2,5-Dihydroxybenzoic acid (Gentisic acid)"
+148,154.026611,"3,5-dihydroxybenzoic acid / 3,4-dihydroxybenzoic acid"
+150,155.021851,Pyrroledicarboxylic acid 
+151,155.069473,Histidine
+152,155.069473,Histidine isomer
+153,156.017105,Orotic acid
+154,156.017105,Orotic acid isomer
+155,156.053497,Imidazolelactic acid isomer
+156,156.053497,Imidazolelactic acid isomer
+157,157.073898,3-Methylcrotonylglycine
+158,157.073898,Tiglylglycine
+159,159.089539,Isovalerylglycine
+160,159.089539,Valerylglycine isomer
+161,159.089539,Methyl (hydroxymethyl)pyrrolidine-carboxylate / methyl (hydroxy)piperidine-carboxylate
+162,160.03717,2-Oxoadipic acid
+163,160.03717,3-Oxoadipic acid
+164,160.0734,3-Methyladipic acid
+165,160.0734,Pimelic acid
+166,160.0734,"2,2-Dimethylglutaric acid"
+167,160.0734,"3,3-Dimethylglutaric acid"
+168,160.0734,mono-methyl-adipate
+169,160.0734,mono-methyl-adipate isomer
+170,160.100052,Tryptamine
+171,161.068802,2-Aminoadipic acid
+172,161.105194,Carnitine
+173,161.105194,Carnitine isomer
+174,162.115692,Nicotine
+175,164.068481,Deoxyhexose
+176,165.078979,Phenylalanine
+177,166.047745,Ribonic acid (and isomers)
+178,166.049072,1-Methylxanthine
+179,166.049072,7-Methylxanthine
+180,166.049072,9-Methylxanthine
+181,166.0629,Phenyllactic acid
+182,167.058243,Pyridoxal isomer
+183,168.028336,Uric acid
+184,168.042252,4-Hydroxymandelic acid
+185,168.042252,"3,4-Dihydroxyphenylacetic acid"
+186,168.042252,3-Methoxysalicylic acid
+187,168.042252,Hydroxymandelic acid isomer
+188,168.042252,Methoxysalicylic acid isomer
+189,168.089874,Pyridoxamine isomer
+190,168.089874,Pyridoxamine isomer
+191,169.085129,Methylhistidine
+192,169.085129,Methylhistidine
+193,169.085129,Methylhistidine
+194,170.057907,Dihydroxyphenylethyleneglycol isomer
+195,172.013672,Glycerol Phosphate
+196,172.084793,Glycylproline
+197,172.084793,Prolylglycine
+198,173.1051,Hexanoylglycine
+199,173.1051,N-Acetylisoleucine
+200,173.1051,N-Acetylleucine 
+201,173.1051,Isovalerylalanine isomer
+202,173.9987,Phenyl sulfate / phenolsulfonic acid
+203,174.052826,Shikimic acid isomer
+204,174.089203,Suberic acid
+205,174.111679,Arginine
+206,174.111679,Arginine isomer
+207,175.048065,N-Acetylaspartic acid
+208,175.063324,Indoleacetic acid
+209,175.063324,Indoleacetic acid isomer
+210,175.095688,Citrulline isomer
+211,175.095688,Citrulline isomer
+212,176.032089,Ascorbic acid
+213,176.068481,2-isopropylmalic
+214,176.094955,Cotinine
+215,176.094955,Serotonin
+216,177.045959,N-Formylmethionine
+217,177.045959,N-Formylmethionine isomer
+218,179.058243,Hippuric acid
+219,180.045624,5-Methylthioribose
+221,180.053497,Nicotinuric acid isomer
+222,180.063385,Hexose
+223,180.064728,Paraxanthine / Theophylline
+225,180.064728,Theobromine
+226,181.073894,Tyrosine
+227,181.073898,L-Threo-3-Phenylserine
+228,181.073898,Tyrosine isomer
+229,182.043991,1-Methyluric acid 
+230,182.057907,Homovanillic acid
+231,182.057907,Isohomovanillic acid
+232,182.057907,Hydroxyphenyllactic acid
+233,182.079041,Mannitol (and isomers)
+234,183.053162,4-Pyridoxic acid  isomer
+235,183.053162,4-Pyridoxic acid  isomer
+236,183.089539,Tetrahydrohippuric acid
+237,187.168457,N1-Acetylspermidine
+238,188.104858,Azelaic acid
+239,189.042587,Kynurenic acid
+240,189.9936,Pyrocatechol sulfate (and isomers)
+241,190.084122,Hydroxysuberic acid isomer
+242,190.084122,Hydroxysuberic acid isomer
+243,190.084122,Hydroxysuberic acid isomer
+244,190.084122,6-(2-hydroxyethoxy)-6-oxohexanoic acid 
+245,190.084122,6-(carboxymethoxy)-hexanoic acid
+246,191.058243,5-Hydroxyindoleacetic acid
+247,192.027008,Citric acid
+248,192.063385,Quinic acid
+249,192.089874, trans-3-Hydroxycotinine
+250,193.073898,2-Methylhippuric acid
+251,193.073898,Methylhippuric acid isomer
+252,193.073898,4-Methylhippuric acid / 3-Methylhippuric acid
+254,194.042655,Glucuronic acid (and isomers)
+255,194.0578,Isoferulic acid
+256,194.0578,Monoethyl phthalate
+257,194.0578,Dihydroxycinnamic acid methyl ester
+258,194.0578,mono-Benzyl malonate
+259,194.069143,Pyridylacetylglycine
+260,194.080383,Caffeine
+261,195.053162,o-Hydroxyhippuric acid
+262,195.053162,α-hydroxyhippuric acid
+263,195.053162,m-Hydroxyhippuric acid
+264,195.053162,p-Hydroxyhippuric acid
+265,196.058305,Gluconic acid (and isomers)
+266,196.059647,"3,7-Dimethyluric acid"
+267,196.059647,"1,3-Dimethyluric acid"
+268,196.059647,"1,7-Dimethyluric acid"
+269,196.059647,Dimethyluric acid isomer
+270,196.059647,Dimethyluric acid isomer
+271,196.059647,Dimethyluric acid isomer
+272,202.12051,Sebacic acid
+274,202.120514,2-ethylsuberic acid 
+275,202.120514,Heptylmalonic acid 
+276,202.215744,Spermine
+277,203.0794,N2-Acetylaminoadipic acid
+278,203.0794,(ethoxycarbonyl)-hydroxypyrrolidine-carboxylic acid / (methoxyacetyl)-hydroxypyrrolidine-carboxylic acid
+279,203.0794,(ethoxycarbonyl)-hydroxypyrrolidine-carboxylic acid / (methoxyacetyl)-hydroxypyrrolidine-carboxylic acid
+280,203.115753,Acetylcarnitine
+281,203.115753,Acetylcarnitine isomer
+282,204.089874,Tryptophan isomer
+283,205.037506,Xanthurenic acid
+284,205.073898,Cinnamoylglycine
+285,207.0895,N-Acetylphenylalanine
+286,207.0895, 2-acetamido-4-methylphenyl acetate
+287,208.084793,Kynurenine isomer
+288,210.0641,Aminosalicyluric acid
+289,214.024246,Deoxyribose phosphate (and isomers)
+290,214.131744, 2-methoxy-N-[3-oxo-3-(pyrrolidin-1-yl)propyl]acetamide (and isomers)
+291,214.131744, 2-methoxy-N-[3-oxo-3-(pyrrolidin-1-yl)propyl]acetamide (and isomers)
+292,217.131409,Propionylcarnitine
+293,217.131409,Propionylcarnitine isomer
+294,217.98851,5-Sulfosalicylic acid
+295,217.98851,Sulfosalicylic acid isomer
+296,218.10553,N-Acetylserotonin
+298,219.110672,Pantothenic acid
+299,220.084793,Hydroxytryptophan isomer
+300,220.084793,Hydroxytryptophan isomer
+301,220.084793,Hydroxytryptophan isomer
+302,223.084457,Acetyltyrosine isomer
+303,226.095352,Porphobilinogen
+304,231.147064,Butyrylcarnitine
+305,237.086182,Biopterin isomer
+306,242.090271,Thymidine
+307,243.147064,Tiglylcarnitine / 2-Ethylacrylylcarnitine
+308,244.069534,Pseudouridine
+309,245.162704,2-Methylbutyroylcarnitine
+310,245.162704,Isovalerylcarnitine
+311,245.162704,Valerylcarnitine
+312,246.1004,N-Acetyltryptophan
+313,246.1004,N-Acetyltryptophan isomer
+314,246.1004,N-Acetyltryptophan isomer
+315,246.121567,Asp-Leu / Asp-Ile
+316,246.121567,Glu-Val
+317,246.121567,Asp-Leu / Asp-Ile
+318,252.111,Phe Ser / Ser Phe
+319,255.096756,Dihydroneopterin isomer
+320,255.11012,Carnitine derivative
+321,259.178345,Hexanoylcarnitine
+322,259.178345,Hexanoylcarnitine isomer
+323,259.178345,Hexanoylcarnitine isomer
+324,260.137207,(gamma)Glu-Leu/Ile
+325,264.110992,Phenylacetylglutamine
+326,267.096741,Adenosine
+327,268.11661, N-Acetylcarnosine
+328,268.11661, N-Acetylcarnosine isomer
+329,271.17836,Heptenoylcarnitine isomer
+330,271.17836,Heptenoylcarnitine isomer
+331,282.096405,Methylinosine
+333,284.075684,Xanthosine
+334,285.0961,N4-Acetylcytidine
+335,285.19401,Octenoylcarnitine
+336,287.209656,Octanoylcarnitine
+337,287.209656,Octanoylcarnitine isomer
+338,289.152527,Methylglutarylcarnitine isomer
+339,289.152527,Adipoylcarnitine
+340,289.152527,Methylglutarylcarnitine isomer
+341,297.10733,N2-Methylguanosine
+342,299.20966,Nonenoylcarnitine isomer
+343,299.20966,Nonenoylcarnitine isomer
+344,301.225311,"2,6 dimethylheptanoyl carnitine"
+345,301.225311,Nonanoylcarnitine
+346,303.12191,Indoleacetyl glutamine
+347,303.20457,Hydroxyoctanoylcarnitine
+348,308.040956,dUMP
+349,309.105988,N-acetylneuraminic acid
+350,309.194,Decadienylcarnitine isomer
+351,309.194,Decadienylcarnitine isomer
+352,311.122955,Dimethylguanosine
+353,313.22585,Decenoylcarnitine isomer
+354,313.22585,Decenoylcarnitine isomer
+355,315.240967,Decanoylcarnitine
+356,315.240967,Decanoylcarnitine isomer
+357,320.14678,Octanoylglucuronide
+358,325.1373,Glucopyranosylmoranoline
+359,327.095428,Acetaminophen glucuronide
+360,327.24096,Dimethylnonenoylcarnitine  / Undecenoylcarnitine
+361,329.052521,Cyclic AMP
+362,330.219482,17-Hydroxyprogesterone
+363,330.219482,Deoxycorticosterone
+364,337.079769,3-Indole carboxylic acid glucuronide
+365,342.116211,Sucrose (and isomers)
+366,354.095093,Chlorogenic acid
+367,368.165741,Dehydroepiandrosterone sulfate
+368,368.165741,Testosterone sulfate
+369,376.138275,Riboflavin (Vitamin B2)
+370,383.107727,Succinyladenosine
+371,408.287567,Cholic acid
+373,443.1693,Phe Tyr Asp (and isomers)
+374,443.1693,Phe Tyr Asp (and isomers)
+375,444.1625,4-(2-carboxyethyl)-7a-methyl-1-oxo-octahydro-1H-indene-5-carboxylic acid Glucuronide (and isomers)
+376,449.314117,Chenodeoxyglycocholic acid isomer
+377,458.12027,FMNH
+378,464.241028,Dehydroepiandrosterone glucuronide
+379,464.241028,Testosterone glucuronide isomer
+380,464.241028,Testosterone glucuronide
+381,465.309052,Glycocholic acid
+382,465.309052,Glycocholic acid isomer
+383,465.309052,Glycocholic acid isomer
+384,465.309052,Glycocholic acid isomer
+385,466.256653,Androsterone glucuronide
+386,490.220285,Ketoretinoic acid Glucuronide isomer
+387,492.235935,Hydroxyretinoic Glucuronide isomer
+389,495.332489,Lysophosphatidylcholine LysoPC(16:0)
+390,519.332492,1-Linoleoylglycerophosphocholine GPCho(18:2) 
+391,521.348145,1-Oleoylglycerophosphocholine LysoPC(18:1)
+392,594.341736,L-urobilin
+393,596.357361,L-urobilinogen
