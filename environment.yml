@@ -1,0 +1,14 @@
+name: PUMA
+
+dependencies:
+  - python=3.5
+  - pymc3=3.5
+  - theano=1.0.2
+  - scikit-learn
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - xlsxwriter
+  - pip:
+    - install json
